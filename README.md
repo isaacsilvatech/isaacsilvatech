@@ -14,7 +14,7 @@
 ## Minha pilha de tecnologia
 
 - Frontend: HTML, CSS, JavaScript, TypeScript, Angular, Flex AS3
-- Backend: Java ( JPA, JSP, JAVAX, EJB, Wildfly, CDI)
+- Backend: Java ( JPA, JSP, EJB, Wildfly, CDI)
 - Banco de Dados: Oracle DataBase, MySQL
 - Outras Ferramentas: Git, VS Code, Linux
 - Outras Linguagens: Python 
