@@ -35,7 +35,7 @@
 📫 Quer conversar, colaborar em um projeto ou aprender juntos? Fique à vontade para me contatar! Estou sempre aberto a novas oportunidades e desafios emocionantes.
 
 - 📧 E-mail: isaacsilvatech@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/isaac-silva-a9b2a5296](https://www.linkedin.com/in/isaac-silva-elias-a9b2a5296/)
+- 🔗 LinkedIn: <a href="[caminho-para-seu-readme.md](https://www.linkedin.com/in/isaac-silva-elias-a9b2a5296/)" target="_blank">linkedin.com/in/isaac-silva-a9b2a5296</a>
 
 ## Vamos Construir o Futuro Juntos!
 
