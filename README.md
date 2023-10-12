@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-👋 Olá, sou @isaacsilvatech, um desenvolvedor full stack com 2 anos de experiência. Desde que fui apresentado ao mundo da programação aos 14 anos de idade, fiquei completamente apaixonado e viciado em conhecimento. A tecnologia é minha paixão e a programação é a minha forma de expressá-la.
+👋 Olá, sou @isaacsilvatech, um desenvolvedor Fullstack Pleno com 2 anos de experiência. Desde que fui apresentado ao mundo da programação aos 14 anos de idade, fiquei completamente apaixonado e viciado em conhecimento. A tecnologia é minha paixão e a programação é a minha forma de expressá-la.
 
 ## O que você encontrará aqui
 
