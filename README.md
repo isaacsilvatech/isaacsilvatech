@@ -13,6 +13,7 @@
 
 ## Minha pilha de tecnologia
 
+- SOLID, Clean Code e Design Patterns
 - Frontend: HTML, CSS, JavaScript, TypeScript, Angular, Flex AS3
 - Backend: Java ( JSP, JPA, EJB, CDI, Wildfly )
 - Banco de Dados: Oracle DataBase, MySQL
