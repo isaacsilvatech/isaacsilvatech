@@ -36,6 +36,7 @@
 
 - 📧 E-mail: isaacsilvatech@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/isaac-silva-elias-a9b2a5296/](https://www.linkedin.com/in/isaac-silva-elias-a9b2a5296/)
+- [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 ## Vamos Construir o Futuro Juntos!
 
