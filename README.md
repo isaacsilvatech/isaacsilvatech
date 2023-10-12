@@ -13,10 +13,11 @@
 
 ## Minha pilha de tecnologia
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
-- Banco de Dados: MongoDB, MySQL
+- Frontend: HTML, CSS, JavaScript, TypeScript, Angular, Flex AS3
+- Backend: Java ( JPA, JSP, JAVAX, EJB, Wildfly, CDI)
+- Banco de Dados: Oracle DataBase, MySQL
 - Outras Ferramentas: Git, VS Code, Linux
+- Outras Linguagens: Python 
 
 ## Entrar em contato
 
