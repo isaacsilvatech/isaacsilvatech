@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile!
-
-![Hello, I'm @isaacsilvatech](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+# Bem-vindo ao meu perfil do GitHub!
 
 ## About Me
 
@@ -32,6 +30,6 @@
 
 Estou animado para continuar minha jornada de aprendizado e inovação. Vamos construir o futuro juntos e tornar o mundo digital um lugar melhor!
 
-![Coding is Life](https://media.giphy.com/media/cj87CxfRtrU2M/giphy.gif)
+![Hello, I'm @isaacsilvatech](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 **Obrigado por visitar meu perfil!** 😄
