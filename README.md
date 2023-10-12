@@ -11,7 +11,7 @@
 - 🔧 Experimentos e Aprendizado Contínuo
 - 🚀 Emoção por Tecnologia e Inovação
 
-## Minha pilha de tecnologia
+## Stack de tecnologia
 
 - SOLID, Clean Code e Design Patterns
 - Frontend: HTML, CSS, JavaScript, TypeScript, Angular, Flex AS3
