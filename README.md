@@ -20,7 +20,7 @@
 - Outras Ferramentas: Git, VS Code, Linux
 - Outras Linguagens: Python 
 
-## SOLID, Clean Code e Design Patterns
+### SOLID, Clean Code e Design Patterns
 
  - Acredito firmemente que escrever código limpo e aplicar os princípios SOLID (SRP, OCP, LSP, ISP, DIP) são fundamentais para criar software robusto e de fácil manutenção. Além disso, o uso de padrões de design como 
    Factory, Singleton, Observer e muitos outros desempenha um papel vital na criação de arquiteturas sólidas e eficientes.
