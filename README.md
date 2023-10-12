@@ -35,9 +35,6 @@
 📫 Quer conversar, colaborar em um projeto ou aprender juntos? Fique à vontade para me contatar! Estou sempre aberto a novas oportunidades e desafios emocionantes.
 
 - 📧 E-mail: isaacsilvatech@gmail.com
-<!-- - 🔗 LinkedIn: [linkedin.com/in/isaacsilvatech](https://www.linkedin.com/in/isaacsilvatech)
-- 🐦 Twitter: [@isaacsilvatech](https://twitter.com/isaacsilvatech)
---!>
 
 ## Vamos Construir o Futuro Juntos!
 
