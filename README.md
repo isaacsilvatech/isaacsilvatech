@@ -14,7 +14,7 @@
 ## Stack de tecnologia
 
 - SOLID, Clean Code e Design Patterns
-- Frontend: HTML, CSS, JavaScript, TypeScript, Angular, Flex AS3, Android
+- Frontend: HTML, CSS, JavaScript, TypeScript, Angular, Flex AS3
 - Backend: Java ( JSP, JPA, EJB, CDI, Wildfly, JUnit, Maven )
 - Banco de Dados: Oracle DataBase, MySQL
 - Outras Ferramentas: Git, VS Code, Eclipse
