@@ -17,8 +17,8 @@
 - Frontend: HTML, CSS, JavaScript, TypeScript, Angular, Flex AS3, Android
 - Backend: Java ( JSP, JPA, EJB, CDI, Wildfly, JUnit, Maven )
 - Banco de Dados: Oracle DataBase, MySQL
-- Outras Ferramentas: Git, VS Code, Linux, Eclipse
-- Outras Linguagens: Python 
+- Outras Ferramentas: Git, VS Code, Eclipse
+- SO: Linux, Windows
 
 ### SOLID, Clean Code e Design Patterns
 
