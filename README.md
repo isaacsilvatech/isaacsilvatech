@@ -15,7 +15,7 @@
 
 - SOLID, Clean Code e Design Patterns
 - Frontend: HTML, CSS, JavaScript, TypeScript, Angular, Flex AS3
-- Backend: Java ( JPA, EJB, CDI, Wildfly, JUnit, Maven )
+- Backend: Java (Spring Boot, Java EE, JPA, EJB, CDI, Wildfly, JUnit, Maven )
 - Banco de Dados: Oracle DataBase, MySQL
 - Outras Ferramentas: Git, VS Code, Eclipse
 - SO: Linux, Windows
