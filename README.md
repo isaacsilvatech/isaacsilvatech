@@ -27,10 +27,6 @@
 - 📧 E-mail: isaacsilva.tech@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/isaacsilvatech/](https://www.linkedin.com/in/isaacsilvatech/)
 
-## Vamos Construir o Futuro Juntos!
-
-Estou animado para continuar minha jornada de aprendizado e inovação. Vamos construir o futuro juntos e tornar o mundo digital um lugar melhor!
-
 ![Hello, I'm @isaacsilvatech](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 **Obrigado por visitar meu perfil!** 😄
