@@ -13,11 +13,11 @@
 
 ## Stack de tecnologia
 
-- SOLID, Clean Code e Design Patterns
-- Frontend: Angular, HTML, CSS, JavaScript, TypeScript,  Flex AS3, Tailwind, PrimeNg, PrimeFlex
+- SOLID, Clean Code e Design Patterns, TDD, BDD
+- Frontend: Angular, HTML, CSS, SCSS, JavaScript, TypeScript, Flex AS3, Tailwind, PrimeNg, PrimeFlex
 - Backend: Java (Spring Boot, Java EE, JPA, EJB, CDI, Wildfly, JUnit, Maven )
 - Banco de Dados: Oracle DataBase, MySQL
-- Outras Ferramentas: Git, VS Code, Eclipse
+- Outras Ferramentas: Git, VS Code, Eclipse, Intellij
 - SO: Linux, Windows
 
 ## Entrar em contato
