@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-👋 Olá, sou @isaacsilvatech, um Full Stack Dev. Desde que fui apresentado ao mundo da programação, fiquei completamente apaixonado e viciado em conhecimento. A tecnologia é minha paixão e a programação é a minha forma de expressá-la.
+Olá, meu nome é Isaac da Silva Elias. Desde cedo, me apaixonei pela programação, graças ao meu primo, que começou a me ensinar quando eu tinha apenas 12 anos. Essa experiência despertou meu interesse, e hoje estou dedicado a trabalhar e estudar para aprimorar meus conhecimentos na área.
 
 ## O que você encontrará aqui
 
