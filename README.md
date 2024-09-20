@@ -15,6 +15,7 @@ Olá, meu nome é Isaac da Silva Elias. Desde cedo, me apaixonei pela programaç
 
 ## Entrar em contato
 
+- 📱 Celular: (61) 98291-1091
 - 📧 E-mail: isaacsilva.tech@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/isaacsilvatech/](https://www.linkedin.com/in/isaacsilvatech/)
 
