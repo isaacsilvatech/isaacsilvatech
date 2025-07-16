@@ -8,7 +8,7 @@ Olá, meu nome é Isaac da Silva Elias. Desde cedo, me apaixonei pela programaç
 
 - SOLID, Clean Code e Design Patterns, TDD
 - Frontend: Angular, HTML, CSS, SCSS, JavaScript, TypeScript, Flex AS3, Tailwind, PrimeNg, PrimeFlex
-- Backend: Java, Liferay, Docker, Spring Framework, JSP, JPA, EJB, CDI, Wildfly, JUnit,
+- Backend: Java, Liferay, Docker, Spring Framework, Jakarta EE, JSP, JPA, EJB, CDI, Wildfly, JUnit,
 Maven, SQL, REST
 - Banco de Dados: Oracle DataBase, MySQL
 - Outras Ferramentas: Git, VS Code, Eclipse, Intellij
