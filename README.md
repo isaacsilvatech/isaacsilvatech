@@ -6,20 +6,15 @@ Olá, meu nome é Isaac da Silva Elias. Desde cedo, me apaixonei pela programaç
 
 ## Stack de tecnologia
 
-- SOLID, Clean Code e Design Patterns, TDD
-- Frontend: Angular, HTML, CSS, SCSS, JavaScript, TypeScript, Flex AS3, Tailwind, PrimeNg, PrimeFlex
-- Backend: Java, Liferay, Docker, Spring Framework, Jakarta EE, JSP, JPA, EJB, CDI, Wildfly, JUnit,
-Maven, SQL, REST
+- SOLID, Clean Code e Design Patterns, TDD, Scrum
+- Frontend: Angular, HTML, CSS, SCSS, JS, TS, Flex AS3, Tailwind
+- Backend: Java, Spring Boot, J2EE, Wildfly, JUnit, Maven, SQL, REST
 - Banco de Dados: Oracle DataBase, MySQL
-- Outras Ferramentas: Git, VS Code, Eclipse, Intellij
+- Outras Ferramentas: Docker, Git, VS Code, Eclipse, Intellij
 - SO: Linux, Windows
 
 ## Entrar em contato
 
 - 📱 Celular: (61) 98291-1091
-- 📧 E-mail: isaacsilva.tech@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/isaacsilvatech/](https://www.linkedin.com/in/isaacsilvadev/)
-
-![Hello, I'm @isaacsilvatech](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-**Obrigado por visitar meu perfil!** 😄
+- 📧 E-mail: isaacsilva.info@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/isaacsilvadev/](https://www.linkedin.com/in/isaacsilvadev/)
