@@ -32,12 +32,12 @@ Apaixonado por **boas práticas de código**, sempre aplicando princípios **SOL
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-E95420?style=for-the-badge&logo=eclipse&logoColor=white) 
 ![Wildfly](https://img.shields.io/badge/Wildfly-2F93E0?style=for-the-badge&logo=wildfly&logoColor=white) 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 **Banco de Dados:**  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 **DevOps & Versionamento:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
