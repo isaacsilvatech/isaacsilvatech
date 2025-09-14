@@ -32,7 +32,7 @@ Atuo principalmente no desenvolvimento de **aplicações web**, **APIs REST** e 
 ![Wildfly](https://img.shields.io/badge/Wildfly-2F93E0?style=for-the-badge&logo=wildfly&logoColor=white) 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)  
 
 **Banco de Dados:**  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
