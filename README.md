@@ -7,7 +7,7 @@ Atuação em migração de sistemas legados, modernização de arquiteturas e de
 
 Aplicações que geraram um aumento de 20% no faturamento.
 
-🎓 Estudando Engenharia de Software  
+🎓 Cursando Engenharia de Software  
 📚 Mais de **70 cursos (+650h)** concluídos na [Alura](https://cursos.alura.com.br/user/isaacsilvatech/fullCertificate/ebb9ddb0541e5251cb499020f333d849)  
 
 ---
