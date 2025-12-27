@@ -7,8 +7,11 @@
 ---
 
 ## 🚀 Sobre mim  
-Sou **Desenvolvedor Full-Stack Java** com mais de **4 anos de experiência** em projetos reais.  
-Atuo principalmente no desenvolvimento de **aplicações web**, **APIs REST** e **integrações com banco de dados Oracle**.  
+Especialista Java com sólida experiência em desenvolvimento de software, sistemas corporativos e sistemas industriais. 
+
+Atuação em migração de sistemas legados, modernização de arquiteturas e desenvolvimento de aplicações de ponta a ponta, com impacto direto nos resultados do negócio. 
+
+Aplicações que geraram um aumento de 20% no faturamento.
 
 🎓 Estudando Engenharia de Software  
 📚 Mais de **70 cursos (+650h)** concluídos na [Alura](https://cursos.alura.com.br/user/isaacsilvatech/fullCertificate/ebb9ddb0541e5251cb499020f333d849)  
