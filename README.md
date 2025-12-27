@@ -46,15 +46,6 @@ Aplicações que geraram um aumento de 20% no faturamento.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
----
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacsilvatech&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsilvatech&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🌎 Vamos nos conectar!  
 
 - 📧 E-mail: [isaacsilva.info@gmail.com](mailto:isaacsilva.info@gmail.com)  
