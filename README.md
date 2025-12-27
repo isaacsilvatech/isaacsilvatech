@@ -1,11 +1,5 @@
 # 👨‍💻 Isaac da Silva Elias  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Isaac%20Elias-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacsilvadev/)](https://www.linkedin.com/in/isaacsilvadev/) 
-[![GitHub Badge](https://img.shields.io/badge/-isaacsilvatech-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/isaacsilvatech)](https://github.com/isaacsilvatech) 
-[![Gmail Badge](https://img.shields.io/badge/-isaacsilva.info@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:isaacsilva.info@gmail.com)
-
----
-
 ## 🚀 Sobre mim  
 Especialista Java com sólida experiência em desenvolvimento de software, sistemas corporativos e sistemas industriais. 
 
