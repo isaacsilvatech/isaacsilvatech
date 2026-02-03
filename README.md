@@ -44,7 +44,6 @@ Aplicações que geraram um aumento de 20% no faturamento.
 
 - 📧 E-mail: [isaacsilva.info@gmail.com](mailto:isaacsilva.info@gmail.com)  
 - 💼 Linkedin: [isaacsilvadev](https://www.linkedin.com/in/isaacsilvadev/)  
-- 🐙 GitHub: [isaacsilvatech](https://github.com/isaacsilvatech)  
 
 ---
 ✨ _“Código limpo é a melhor documentação.”_
